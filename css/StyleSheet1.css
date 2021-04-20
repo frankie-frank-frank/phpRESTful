@@ -60,7 +60,7 @@ button {
     background: #fff;
     margin-bottom: 50px;
     box-shadow: 0 3px 20px 0 #0000003b;
-    position:;
+    /*position:;*/
 }
 
     button:hover {
@@ -71,8 +71,8 @@ button {
     border-right: 6px solid black;
     height: 80px;
     float:left;
-    //position: absolute;
-    //left: 50;
+    position: absolute;
+    left: 50;
 }
 
 .titlebar{
